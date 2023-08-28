@@ -4,3 +4,4 @@ gitadd
 gitcommit
 git remove
 git status
+git diff
